@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Zakariye Abikar Adan
 
-<!--
-**zakaria976/zakaria976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Statistics & Planning Student | Aspiring Data Analyst**
 
-Here are some ideas to get you started:
+- 💡 Passionate about turning raw data into meaningful insights and solving real-world problems.
+- 📈 Currently learning advanced Excel, data analysis, and building a strong foundation in statistics.
+- 🎯 Focused on combining analytical thinking with modern tools to drive better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Data & Analysis:** Microsoft Excel, Statistics, Data Interpretation
+- **Productivity:** HP EliteBook, Modern Office Tools
+
+### 📫 How to reach me
+- **Email:** yaresaki22@gmail.com
